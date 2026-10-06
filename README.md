@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-简体中文 | [English](README-en.md) | [日本語](README-ja.md)
+[Tiếng Việt](README-vi.md) | 简体中文 | [English](README-en.md) | [日本語](README-ja.md)
 
 </div>
 

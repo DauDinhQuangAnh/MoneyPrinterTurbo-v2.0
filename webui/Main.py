@@ -671,6 +671,7 @@ def _initialize_session_state():
         saved_language=saved_ui_language,
         browser_locale=browser_locale,
         supported_languages=locales.keys(),
+        default_language="vi",
     )
 
     defaults = {
@@ -784,8 +785,9 @@ def tr(key):
     value = loc.get("Translation", {}).get(key)
     if value is not None:
         return value
-    # 新功能优先维护中英文。其它语言缺少单项翻译时统一回退英文，避免在多个
-    # locale 中复制相同英文后长期失去同步；英文也没有该键时才显示原始 key。
+    vi_value = locales.get("vi", {}).get("Translation", {}).get(key)
+    if vi_value is not None:
+        return vi_value
     return locales.get("en", {}).get("Translation", {}).get(key, key)
 
 
@@ -1815,7 +1817,7 @@ def _render_top_bar():
                     selected_index = i
 
             selected_language_code = st.selectbox(
-                "Language / 语言",
+                "Ngôn ngữ / Language",
                 options=language_codes,
                 index=selected_index,
                 format_func=lambda code: locales[code].get("Language", code),

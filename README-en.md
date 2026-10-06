@@ -9,7 +9,7 @@ Provide a video <b>topic</b> or <b>keyword</b>, and MoneyPrinterTurbo will gener
 [![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-English | [简体中文](README.md) | [日本語](README-ja.md)
+[Tiếng Việt](README-vi.md) | English | [简体中文](README.md) | [日本語](README-ja.md)
 
 </div>
 

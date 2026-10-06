@@ -680,8 +680,9 @@ open_task_folder_on_completion = true
 
 # The WebUI writes the remaining preferences automatically. Uncomment values
 # below only when you want to define initial defaults manually.
-# language = "zh"
-# video_language = ""
+# Mặc định ngôn ngữ giao diện WebUI là tiếng Việt ("vi")
+language = "vi"
+video_language = "vi-VN"
 # paragraph_number = 1
 # video_script_prompt = ""
 # custom_system_prompt = ""

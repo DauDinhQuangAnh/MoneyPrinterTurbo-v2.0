@@ -1,22 +1,23 @@
 <div align="center">
 
-# MoneyPrinterTurbo 💸
+# MoneyPrinterTurbo v2.0 💸
 
-### 一站式 AI 短视频生成工具
+### 一站式 AI 短视频生成工具 (Open Source v2.0)
 
 只需提供视频<b>主题</b>或<b>关键词</b>，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。
 
-[![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)
 [![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Downloads](https://img.shields.io/github/downloads/harry0703/MoneyPrinterTurbo/total)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-<a href="https://trendshift.io/repositories/8731" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8731" alt="harry0703%2FMoneyPrinterTurbo | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-<a href="https://www.star-history.com/harry0703/moneyprinterturbo"><img src="https://api.star-history.com/badge?repo=harry0703/MoneyPrinterTurbo" alt="Star History Rank" style="height: 55px;" height="55"/></a>
-
-简体中文 | [English](README-en.md) | [日本語](README-ja.md) | [版本发布](https://github.com/harry0703/MoneyPrinterTurbo/releases) | [问题反馈](https://github.com/harry0703/MoneyPrinterTurbo/issues)
+简体中文 | [English](README-en.md) | [日本語](README-ja.md)
 
 </div>
+
+> [!NOTE]
+> **Open Source & 致敬原作者 / Acknowledgements & Special Thanks:**
+> - Dự án này là mã nguồn mở (Open Source) được kế thừa và cải tiến, phát triển tiếp dựa trên dự án gốc tuyệt vời **[MoneyPrinterTurbo của tác giả harry0703](https://github.com/harry0703/MoneyPrinterTurbo)**.
+> - Xin gửi lời tri ân chân thành và sâu sắc nhất tới **harry0703** cùng tất cả các cộng tác viên (contributors) của dự án gốc vì đã tạo ra một nền tảng tạo video AI tự động xuất sắc và mở đường cho cộng đồng!
+> - *This project is open-source and evolved from the original work of [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo). Huge thanks and heartfelt gratitude to Harry and all contributors for this phenomenal project!*
 
 ## 界面预览 🖥️
 

@@ -309,7 +309,7 @@ anthropic_model_name = ""
 # Google Gemini
 # API key: https://aistudio.google.com/app/apikey
 gemini_api_key = ""
-gemini_model_name = ""
+gemini_model_name = "gemini-2.5-flash"
 
 # DeepSeek
 # API key: https://platform.deepseek.com/api_keys
